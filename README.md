@@ -70,7 +70,7 @@ This is a very simple Cheat Table made for Castlevania Rondo of Blood aimed at r
 
 # Castlevania Rondo of Blood - Tabla de trucos
 
-## Página en español
+## Página en Español
 
 Esta es una tabla de trucos muy simple hecha para Castlevania Rondo of Blood destinada a la rejugabilidad.
 
