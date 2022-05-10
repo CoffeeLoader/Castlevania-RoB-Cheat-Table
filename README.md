@@ -1,5 +1,7 @@
 # Castlevania Rondo of Blood - Cheat Table
 
+----
+
 ## Pagina em Português
 
 Esse é um Cheat Table bem simples feito pro Castlevania Rondo of Blood voltado a rejogabilidade.
@@ -28,6 +30,8 @@ Esse é um Cheat Table bem simples feito pro Castlevania Rondo of Blood voltado 
 * Remover Possibilidade de Ataque.
 * Suporte a 3 Idiomas, sendo eles Português Brasileiro, Inglés e Espanhol.
 * Suporte ao Modo Dark. Obs: Vai depender da configuração do Windows.
+
+# [Youtube](https://www.youtube.com/channel/UClAmzmIgj22vX8lia9-om-w)
 
 ----
 
@@ -59,6 +63,8 @@ This is a very simple Cheat Table made for Castlevania Rondo of Blood aimed at r
 * Remove Possibility of Attack.
 * Support for 3 languages, being them Brazilian Portuguese, English and Spanish.
 * Dark Mode support. Note: It will depend on your Windows configuration.
+
+# [Youtube](https://www.youtube.com/channel/UClAmzmIgj22vX8lia9-om-w)
 
 ----
 
@@ -92,3 +98,5 @@ Esta es una tabla de trucos muy simple hecha para Castlevania Rondo of Blood des
 * Eliminar Posibilidad de Ataque.
 * Soporte para 3 idiomas, siendo ellos portugués brasileño, inglés y español.
 * Soporte de modo oscuro. Nota: Dependerá de su configuración de Windows.
+
+# [Youtube](https://www.youtube.com/channel/UClAmzmIgj22vX8lia9-om-w)
